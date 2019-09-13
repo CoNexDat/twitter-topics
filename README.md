@@ -1,4 +1,4 @@
-# 75.00 Tesis de grado de Ingenieria en Informática (FIUBA)
+# 75.00 Tesis de grado de Ingeniería en Informática (FIUBA)
 ## Autores
 - Tesista: Tomás Mussi Reyero
 - Director: Dr. Ing. Mariano G. Beiró
