@@ -1,5 +1,8 @@
-# 75.00 Tesis de grado de Ingenieria Informatica (FIUBA)
-## Autores: Ignacio Alvarez-Hamelin, Mariano Beiro, Tomas Mussi Reyero
+# 75.00 Tesis de grado de Ingenieria en Informática (FIUBA)
+## Autores
+- Tesista: Tomás Mussi Reyero
+- Director: Dr. Ing. Mariano G. Beiró
+- Co-director: Dr. Ing. J. Ignacio Alvarez-Hamelin
 
 ### Contenido
 Este repositorio contiene todo el código utilizado
