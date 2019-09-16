@@ -1,15 +1,13 @@
-# 75.00 Tesis de grado de Ingeniería en Informática (FIUBA)
+# Twitter-Topics (Tesis de grado de Ingeniería en Informática, FIUBA)
 ## Autores
 - Tesista: Tomás Mussi Reyero
 - Director: Dr. Ing. Mariano G. Beiró
 - Co-director: Dr. Ing. J. Ignacio Alvarez-Hamelin
 
 ### Contenido
-Este repositorio contiene todo el código utilizado
 
-El objetivo de la presente tesis es analizar un conjunto de datos extraido de Twitter que contiene usuarios y los tweets que publicaron.
-A través de los notebooks se puede reproducir todo el proceso
-
+El objetivo de la presente tesis es analizar un conjunto de datos extraido de Twitter que contiene usuarios y los tweets que publicaron, para extraer tópicos de discusión y comparar la similitud entre grupos de usuarios seguidores de distintos candidatos políticos, durante las elecciones argentinas de 2015.
+A través de los notebooks se puede reproducir todo el proceso.
 
 ### Notebooks
 El trabajo se dividió en seis notebooks, en los cuales detallamos:
